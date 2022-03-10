@@ -1,7 +1,0 @@
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.AssemblyReference.cache
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.CoreCompileInputs.cache
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe.config
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.pdb
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.exe
-C:\Users\Ahmed Mazloum\Source\Repos\cis297-w2022-assignment4-template-amazloum\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.pdb
